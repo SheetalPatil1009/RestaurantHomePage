@@ -1,4 +1,4 @@
-# Project 2 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
+# Project 2 -Restaurant Home Page
 
 By Sheetal Patil
 
