@@ -3,7 +3,7 @@
 By Sheetal Patil
 
 
-## [DEPLOYED WEBSITE LINK]()
+## [DEPLOYED WEBSITE LINK](https://restauranthomepagehtmlcss.netlify.app/)
 
 ![Completed Website](./FullScreenshot.JPG)
 
@@ -12,4 +12,4 @@ By Sheetal Patil
 - I have learned more background properties
 - I have explored positioning.
 
-## This project took around 2 days to complete.
+## This project took around 2 hours to complete.
